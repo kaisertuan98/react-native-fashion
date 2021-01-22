@@ -4,6 +4,5 @@
 
 **Fashion inspiration and shopping app helping you wear that's in style. Made with Typescript & ReactNative.**
 
-
-
+https://github.com/kaisertuan98/react-native-fashion/issues/1#issue-792176325
 
