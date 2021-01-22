@@ -4,7 +4,7 @@
 
 **Fashion inspiration and shopping app helping you wear that's in style. Made with Typescript & ReactNative.**
 
-![Simulator Screen Shot - iPhone 11 - 2021-01-23 at 00 04 47](https://user-images.githubusercontent.com/37129933/105523302-d0ddf880-5d10-11eb-9ada-927a372a6445.png =250x250)
+![Simulator Screen Shot - iPhone 11 - 2021-01-23 at 00 04 47](https://user-images.githubusercontent.com/37129933/105523302-d0ddf880-5d10-11eb-9ada-927a372a6445.png)
 ![Simulator Screen Shot - iPhone 11 - 2021-01-23 at 00 04 54](https://user-images.githubusercontent.com/37129933/105523339-d6d3d980-5d10-11eb-8bb9-95d492e25d1f.png)
 ![Simulator Screen Shot - iPhone 11 - 2021-01-23 at 00 05 02](https://user-images.githubusercontent.com/37129933/105523343-d8050680-5d10-11eb-9ce4-786be2a6978a.png)
 ![Simulator Screen Shot - iPhone 11 - 2021-01-23 at 00 05 06](https://user-images.githubusercontent.com/37129933/105523351-d9363380-5d10-11eb-9dec-2944eb457811.png)
