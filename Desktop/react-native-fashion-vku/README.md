@@ -4,4 +4,6 @@
 
 **Fashion inspiration and shopping app helping you wear that's in style. Made with Typescript & ReactNative.**
 
+# Introduction
+https://www.youtube.com/watch?v=6I8wrEMQvdQ&t=96s
 
